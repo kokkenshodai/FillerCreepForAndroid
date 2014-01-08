@@ -1,7 +1,8 @@
-FillerCreepForAndroid
+FillerCreepForAndroid by Kyomaru
 =====================
 
 A Game that Attempts to Demo MVC for Android
+Modified from Adram Hindle's FillerCreepForAndroid
 
 License
 =======
